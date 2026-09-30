@@ -34,6 +34,7 @@
 6. **Monitoring & observability** — log agent reasoning and actions, and expose them — visible reasoning is what earns trust.
 7. **Multi-agent trust boundaries** — treat inter-agent messages as untrusted; contain cascading failures.
 8. **Data protection** — data is the new perimeter; propagate identity, don't over-share.
+9. **Authorization lives outside the model**: the user, the agent and the delegated scope go to a PDP on every tool call (CoSAI, Zero Trust for AI Systems).
 
 ## Containment & incident response
 - **Cryptographically anchored agent identity** with short-lived credentials.
@@ -53,7 +54,7 @@
 
 ## Strategy & cadence
 - **Maturity** — anchor to the SEI AI Adoption Maturity Model (Accenture + CMU); know where you are before you build.
-- **Roadmap** — 85 actions across **Now (40) / Next (35) / Later (10)**. Sequence deliberately; don't boil the ocean.
+- **Roadmap** — 86 actions across **Now (40) / Next (36) / Later (10)**. Sequence deliberately; don't boil the ocean.
 - **Metrics** — pair speed with quality, coverage, and cost. Speed alone hides risk.
 
 ## The frontier reality (why continuous wins)
