@@ -54,7 +54,7 @@
 
 ## Strategy & cadence
 - **Maturity** — anchor to the SEI AI Adoption Maturity Model (Accenture + CMU); know where you are before you build.
-- **Roadmap** — 86 actions across **Now (40) / Next (36) / Later (10)**. Sequence deliberately; don't boil the ocean.
+- **Roadmap** — 87 actions across **Now (40) / Next (37) / Later (10)**. Sequence deliberately; don't boil the ocean.
 - **Metrics** — pair speed with quality, coverage, and cost. Speed alone hides risk.
 
 ## The frontier reality (why continuous wins)
